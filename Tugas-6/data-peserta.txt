@@ -2,4 +2,4 @@ Data Peserta Sanbercode Bootcamp Laravel Web Dev
 1. Nama: Hasbi Pauji
 2. Email: hasbipauji817@gmail.com
 3. Akun Gitlab: hasbiipauji
-4. Akun Telegram: hasbipauji
+4. Akun Telegram: @hasbipauji
